@@ -1,0 +1,235 @@
+.user_name {
+  display: inline-flex;
+}
+
+.user_name_n_btn {
+  display: flow-root;
+}
+.user_dp {
+  margin-left: 29rem;
+}
+
+.hi {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 84px;
+  text-align: left;
+  color: #2a3d66;
+}
+
+.cd {
+  color: #2a3d66;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+}
+
+.user.btn {
+  align-items: left;
+}
+
+.view_btn {
+  color: #3667a6;
+  background: white;
+  border: 1.8px solid #3667a6;
+  height: 43px;
+  width: 200px;
+  left: 212px;
+  top: 0px;
+  border-radius: 0px;
+  padding: 12px, 68px, 12px, 68px;
+  font-weight: bold;
+}
+
+.download_btn {
+  background: #3667a6;
+  color: white;
+  border: none;
+  box-shadow: none;
+  height: 43px;
+  width: 200px;
+  font-weight: bold;
+}
+
+.profile_info {
+  height: 334px;
+  width: 100%;
+  background: #2a3d66;
+  padding: 64px 97px;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.creative {
+  color: #f8f8f8;
+  position: absolute;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+.read_more {
+  position: static;
+  width: 522px;
+  height: 144px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: #f8f8f8;
+  margin: 19px 0px;
+  align-items: right;
+}
+
+.read_more_btn {
+  background: #2a3d66;
+  border: 1px solid #f8f8f8;
+  color: #f8f8f8;
+  height: 20%;
+  width: 25%;
+}
+
+.work_exp_details {
+  display: -webkit-inline-box;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 97px;
+  position: absolute;
+  width: 100%;
+  background: #3667a6;
+}
+
+.work_exp {
+  position: static;
+  width: 259px;
+  height: 112px;
+  left: 0px;
+  top: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  color: #f8f8f8;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 201px;
+}
+
+.skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 97px;
+  position: absolute;
+  width: 100%;
+  top: 1261px;
+  background: #2a3d66;
+}
+
+.my_skills {
+  position: static;
+  width: 474px;
+  height: 56px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #f8f8f8;
+}
+.react {
+  display: flex;
+  justify-content: space-between !important;
+  justify-items: space-evenly;
+  color: white;
+}
+
+.ant-progress-text {
+  color: white;
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 97px;
+  position: absolute;
+  width: 100%;
+  height: 520px;
+  top: 1658px;
+}
+
+.prev_project {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #2a3d66;
+  margin-bottom: 2rem;
+}
+
+.all_project {
+  display: flex;
+}
+
+.project_img_text {
+  margin-top: 10px;
+  position: static;
+  width: 10px;
+  height: 10px;
+}
+
+.insta {
+  width: 100%;
+  top: 2178px;
+  background: #3667a6;
+  display: block;
+  flex-direction: column;
+  padding: 64px 97px;
+  position: absolute;
+}
+
+.check_my_insta {
+  display: flex;
+  position: static;
+  width: 259px;
+  height: 112px;
+}
+
+.first_row {
+  position: static;
+  display: flex;
+  color: #f8f8f8;
+  justify-content: space-between;
+}
+
+.insta_link {
+  align-content: flex-start;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 48px;
+  line-height: 56px;
+}
+
+.social_media {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  padding: 64px 97px;
+  width: 100%;
+  height: 266px;
+  top: 3025px;
+  background: #2a3d66;
+}
